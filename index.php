@@ -1,4 +1,5 @@
 <?php
+
 // cara untuk membuat laravel di laragon
 // 1. download laragon di https://laragon.org/download/
 // 2. install laragon di C:\laragon
