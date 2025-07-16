@@ -174,3 +174,7 @@ class CreateProductsTable extends Migration
     </table>
 </div>
 @endsection
+
+
+
+
