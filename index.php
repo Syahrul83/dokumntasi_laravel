@@ -175,6 +175,8 @@ class CreateProductsTable extends Migration
 </div>
 @endsection
 
+// resources/views/products/create.blade.php (View)
+
 
 
 
